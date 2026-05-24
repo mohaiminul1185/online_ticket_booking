@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Dhaka to Cox's Bazar",
+    "price": 1200,
+    "quantity": 20,
+    "transport": "Bus",
+    "image": "https://i.ibb.co.com/0j2hR0k/bus.jpg",
+    "description": "Luxury AC bus ticket from Dhaka to Cox's Bazar."
+  },
+  {
+    "id": 2,
+    "title": "Dhaka to Sylhet",
+    "price": 900,
+    "quantity": 15,
+    "transport": "Train",
+    "image": "https://i.ibb.co.com/3YdJm7P/train.jpg",
+    "description": "Comfortable train journey to Sylhet."
+  },
+  {
+    "id": 3,
+    "title": "Dhaka to Barisal",
+    "price": 1700,
+    "quantity": 10,
+    "transport": "Launch",
+    "image": "https://i.ibb.co.com/x7h8QwN/launch.jpg",
+    "description": "Night launch ticket to Barisal."
+  }
+]
